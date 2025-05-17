@@ -1,0 +1,48 @@
+body{background-color: rgba(48, 22, 121, 0.623);}
+
+.nomefirst{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 255, 255);
+}
+
+p{
+    text-align: justify;
+}
+
+.p1{font-size: 20px; padding-left: 250px; padding-right: 250px; padding-top: 20px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.lista3hobbies {
+    list-style-type: circle;
+    font-size: 23px;
+}
+
+.lista3hobbies li {
+    padding-bottom: 10px;
+}
+
+.futebol{
+    position: absolute;
+    border-radius: 40px;
+    width: 500px;
+    left: 26px;
+}
+
+.tablez{ position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    left: 600px;
+    height: 350px;
+    background-color: rgba(188, 253, 36, 0.603);
+}
+
+.bandeira img{
+    display: flex; justify-content: center;
+    width: 250px;
+    height: 150px;
+    align-items: center;
+}
+
+a{ position: absolute;
+    top: 1100px;
+}
